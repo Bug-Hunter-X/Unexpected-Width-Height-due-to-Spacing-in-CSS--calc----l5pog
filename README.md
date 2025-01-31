@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in CSS related to the `calc()` function. Incorrect spacing within the `calc()` function can lead to unexpected results in layout and dimensions. The `bug.css` file showcases the erroneous code, while `bugSolution.css` provides the corrected version.
